@@ -1,3 +1,3 @@
 # first_repo
-devam ediyorum/
+devam ediyorum\
 selamlar!
